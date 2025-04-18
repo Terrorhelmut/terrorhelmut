@@ -1,43 +1,72 @@
+# 👋 Hello, I'm Terrorhelmut!
+
+Welcome to my little corner of GitHub!  
+I'm a **hobby programmer** who enjoys coding and constantly experimenting with new projects. I love creative coding challenges, and I mostly develop plugins and tools for **Minecraft** and other fun stuff in C# and Python.
+
+> 💡 What started with curiosity turned into a passion.
 
 ---
 
-# Hi there, I'm Terrorhelmut! 👋
+## 🧑‍💻 About Me
 
-Welcome to my little corner of GitHub! I'm a **hobby programmer** who's passionate about coding and constantly experimenting with different projects. I love to dive into creative coding challenges, and I mainly develop plugins and tools related to **Minecraft** and other fun stuff. My journey into programming started with a simple curiosity, and now it has grown into something I genuinely enjoy doing in my free time.
+I’m not a full-time developer — I code for fun! Here’s what makes me tick:
 
-## About Me 🚀
+- 🎮 **Minecraft Fanatic**  
+  Passionate about crafting plugins and mods that enhance the Minecraft experience — from minor tweaks to full systems!
 
-I'm not a professional developer, but I code for the fun of it! Here are a few things about me:
+- 🔌 **API Explorer**  
+  I enjoy connecting services and seeing what APIs allow you to build. Think automation, linking platforms like **Pterodactyl**, and beyond.
 
-- 🎮 **Minecraft Enthusiast**: I enjoy crafting unique plugins and mods that enhance the Minecraft experience. Whether it's small tweaks or larger systems, I love the challenge of making something useful for the community.
-- 🌍 **Tinkering with APIs**: I like connecting different services and exploring the potential of APIs. Whether it’s automating things or integrating platforms like **Pterodactyl**, I always find it exciting to see how technology fits together.
-- 💡 **Lifelong Learner**: I’m always open to learning new things, be it programming languages, frameworks, or just fun tools to add to my toolbox. I experiment, fail, and keep improving with every project I take on.
-- 🔧 **Crafting Cool Tools**: From small scripts to more complex solutions, I enjoy building tools that solve problems—sometimes practical, other times just for fun!
+- 📚 **Lifelong Learner**  
+  Always experimenting, failing forward, and improving. I love picking up new languages, frameworks, and tricks for my toolbox.
 
-## What I’m Working On 🛠️
+- 🛠️ **Tool Maker**  
+  Whether it's solving problems or just for fun, I enjoy building tools — from small scripts to complex utilities.
 
-I mainly work on:
-
-- **Minecraft Plugins**: Custom plugins that add new features and make gameplay more interesting.
-- **Server Management Tools**: I love tinkering with server-side tools and automating tasks. Currently diving deeper into **Velocity** and **Pterodactyl** APIs.
-
-## My Programming Toolbox 🧰
-
-- **Languages**: Java, Python, a bit of JavaScript, and whatever else catches my interest!
-- **Tools**: Maven, Git, IntelliJ IDEA, and of course, a lot of Minecraft modding tools.
-- **APIs**: Velocity, Pterodactyl, and anything that allows me to automate and extend cool projects.
-
-## Why I Code 💻
-
-For me, programming is a way to unwind and challenge myself. I love the sense of accomplishment that comes with solving a problem or building something from scratch. Plus, it’s always fun to see what I can come up with, whether it’s just for personal enjoyment or something that others might find useful.
-
-## Let’s Connect 🌐
+- 💻 **C# and Python**  
+  Lately diving deeper into **C#** and **Python** — from desktop apps to automation scripts and web experiments.
 
 ---
 
-My Discord username is **terrorhelmut**.
+## 🚧 What I'm Working On
 
---- 
+These days, I'm mainly focused on:
 
-Happy coding! 😄
+- 🧩 **Minecraft Plugins**  
+  Custom plugins that add new features and make gameplay even more fun.
 
+- ⚙️ **Server Management Tools**  
+  Automating and tweaking server-side stuff. Exploring **Velocity** and **Pterodactyl** APIs right now.
+
+- 🧪 **C# & Python Projects**  
+  Building utilities, tools, and random side-projects — coding for curiosity!
+
+---
+
+## 🧰 My Programming Toolbox
+
+**Languages**  
+`Java`, `Python`, `C#`, `JavaScript (a bit)` — and whatever else I feel like exploring!
+
+**Tools & IDEs**  
+`Maven`, `Git`, `IntelliJ IDEA`, `Visual Studio`, plus a ton of Minecraft modding tools.
+
+**APIs & Platforms**  
+`Velocity`, `Pterodactyl`, and anything that supports automation and cool builds.
+
+---
+
+## ❤️ Why I Code
+
+Programming is my creative outlet and mental challenge.  
+Whether I’m solving a problem, building something from scratch, or just messing around — I code because it’s fun.
+
+---
+
+## 💬 Let's Connect
+
+- 📫 Discord: **terrorhelmut**
+
+---
+
+✨ *Happy coding!* ✨
