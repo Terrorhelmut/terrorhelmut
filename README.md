@@ -1,65 +1,56 @@
 # 👋 Hello, I'm Terrorhelmut!
+Welcome to my little corner of GitHub!
+I'm a hobby programmer who likes building stuff and figuring out how things work. My main focus is Minecraft plugins and server tooling, but I also do web development with TypeScript, React and Next.js, and dabble in C# and Python on the side.
 
-Welcome to my little corner of GitHub!  
-I'm a **hobby programmer** who enjoys coding and constantly experimenting with new projects. I love creative coding challenges, and I mostly develop plugins and tools for **Minecraft** and other fun stuff in C# and Python.
-
-> 💡 What started with curiosity turned into a passion.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m not a full-time developer — I code for fun! Here’s what makes me tick:
+Not a full-time dev — I code because I enjoy it. A few things about how I work:
 
-- 🎮 **Minecraft Fanatic**  
-  Passionate about crafting plugins and mods that enhance the Minecraft experience — from minor tweaks to full systems!
-
-- 🔌 **API Explorer**  
-  I enjoy connecting services and seeing what APIs allow you to build. Think automation, linking platforms like **Pterodactyl**, and beyond.
-
-- 📚 **Lifelong Learner**  
-  Always experimenting, failing forward, and improving. I love picking up new languages, frameworks, and tricks for my toolbox.
-
-- 🛠️ **Tool Maker**  
-  Whether it's solving problems or just for fun, I enjoy building tools — from small scripts to complex utilities.
-
-- 💻 **C# and Python**  
-  Lately diving deeper into **C#** and **Python** — from desktop apps to automation scripts and web experiments.
+- 🎮 Big into Minecraft server infrastructure — plugins for Paper/Folia, Velocity proxy setups, the whole ecosystem.
+- 🌐 Also build web stuff with **TypeScript**, **React** and **Next.js** when I'm not deep in Java land.
+- 🔌 Like wiring things together — APIs, automation, whatever gets two systems talking to each other (Pterodactyl is a favorite).
+- 📚 Constantly learning something new, usually by breaking it first.
+- 💻 Lately spending more time in **C#** and **Python** too — desktop apps, scripts, whatever the project needs.
 
 ---
 
 ## 🚧 What I'm Working On
 
-These days, I'm mainly focused on:
+**Minecraft Plugins**
+- **DynamicView** – adaptive view-distance plugin for Folia
+- **FoliaUtils** – lightweight performance HUD for Folia
+- **EasyModerator** – moderation plugin for SMP servers
+- **ReWhitelist** – Velocity whitelist plugin with an embedded Javalin web portal
 
-- 🧩 **Minecraft Plugins**  
-  Custom plugins that add new features and make gameplay even more fun.
-
-- ⚙️ **Server Management Tools**  
-  Automating and tweaking server-side stuff. Exploring **Velocity** and **Pterodactyl** APIs right now.
-
-- 🧪 **C# & Python Projects**  
-  Building utilities, tools, and random side-projects — coding for curiosity!
+**Other stuff**
+- ⚙️ Server automation via the Pterodactyl API
+- 🌐 Web projects in TypeScript / React / Next.js
+- 🧪 Assorted C# and Python tools
 
 ---
 
 ## 🧰 My Programming Toolbox
 
-**Languages**  
-`Java`, `Python`, `C#`, `JavaScript (a bit)` — and whatever else I feel like exploring!
+**Languages**
+`Java`, `TypeScript`, `Python`, `C#`, `JavaScript`
 
-**Tools & IDEs**  
-`Maven`, `Git`, `IntelliJ IDEA`, `Visual Studio`, plus a ton of Minecraft modding tools.
+**Web**
+`React`, `Next.js`
 
-**APIs & Platforms**  
-`Velocity`, `Pterodactyl`, and anything that supports automation and cool builds.
+**Tools & IDEs**
+`Git`, `Maven`, `IntelliJ IDEA`, `Visual Studio`, `VS Code`
+
+**APIs & Platforms**
+`Velocity`, `Pterodactyl`
 
 ---
 
 ## ❤️ Why I Code
 
-Programming is my creative outlet and mental challenge.  
-Whether I’m solving a problem, building something from scratch, or just messing around — I code because it’s fun.
+It's my creative outlet. Solving a problem, building something from scratch, or just tinkering — doesn't really matter, I just like doing it.
 
 ---
 
@@ -68,5 +59,4 @@ Whether I’m solving a problem, building something from scratch, or just messin
 - 📫 Discord: **terrorhelmut**
 
 ---
-
 ✨ *Happy coding!* ✨
